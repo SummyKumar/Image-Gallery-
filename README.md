@@ -1,6 +1,6 @@
 # 📸 Image Gallery
 
-Welcome to the **Image Gallery** project! This repository contains an elegant and responsive image gallery built with HTML, CSS, and JavaScript. It's designed to showcase images in a visually appealing format while providing an interactive user experience.
+Welcome to the **Image Gallery** project! This repository contains an elegant and responsive image gallery built with HTML, CSS. It's designed to showcase images in a visually appealing format while providing an interactive user experience.
 
 ## 🌟 Features
 
